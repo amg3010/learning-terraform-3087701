@@ -38,7 +38,7 @@ module "autoscaling" {
   version = "7.2.0"
   # insert the 1 required variable here
 
-  name     = "blog"
+  name     = "blogg"
   min_size = 1
   max_size = 2
 
