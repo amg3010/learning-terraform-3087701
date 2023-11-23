@@ -26,7 +26,7 @@ variable "environment" {
     })
 
     default = {
-      name = "dev-ops"
+      name = "dev"
       network_prefix = "10.0"
     }
 }
